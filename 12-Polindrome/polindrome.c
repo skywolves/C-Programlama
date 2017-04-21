@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 /*Kullanıcının girdiği sayının polindrome(tersi aynı) olup olmadığını bulan c programı*/
 
 int main()
