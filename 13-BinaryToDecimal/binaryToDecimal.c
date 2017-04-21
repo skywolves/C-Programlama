@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-/**/
+/*Girilen ikilim sistemdeki sayıyı onluk sisteme çeviren c programı*/
 
 int main()
 {
